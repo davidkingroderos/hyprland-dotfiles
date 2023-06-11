@@ -1,5 +1,5 @@
 # Hyprland Dotfiles
-![image](https://github.com/davidkingroderos/hyprland-dotfiles/assets/75028710/e0d67a87-2a24-426c-b1b8-ecbbda77b4e6)
+![image](https://github.com/davidkingroderos/hyprland-dotfiles/assets/75028710/6139cd50-35cc-4536-a77c-1d94b8eba955)
 
 ## Dependencies Used
 ```bash
