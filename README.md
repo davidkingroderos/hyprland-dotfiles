@@ -6,7 +6,7 @@
 yay -S hyprland firefox zsh waybar nemo rofi swaylock pulseaudio\
   playerctl brightnessctl alsa-utils jq imagemagick bluez\
   networkmanager wl-clipboard cava pfetch grim slurp\
-  alacritty
+  alacritty swww
 ```
 
 Feel free to modify the config to your liking!
