@@ -1,6 +1,8 @@
 # Hyprland Dotfiles
 ![image](https://github.com/davidkingroderos/hyprland-dotfiles/assets/75028710/6139cd50-35cc-4536-a77c-1d94b8eba955)
 
+https://www.youtube.com/watch?v=FgpW0SvYVzw
+
 ## Dependencies Used
 ```bash
 yay -S hyprland firefox zsh waybar nemo rofi swaylock pulseaudio\
